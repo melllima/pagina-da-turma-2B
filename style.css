@@ -19,3 +19,6 @@ header{
 .imagem-escola{
     width: 25%;
 }
+.escola{
+    background-image: linear-gradient(rgb(87, 207, 255), rgb(0, 17, 252));
+}
