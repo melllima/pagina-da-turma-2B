@@ -2,7 +2,7 @@
 padding: 0;}
 
 header{
-    background-color: rgb(124, 165, 165)
+    background-color: aqua;
     color: black;
     display: flex;
     justify-content: space-around;
