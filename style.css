@@ -22,4 +22,7 @@ header{
 .escola{
     background-image: linear-gradient(rgb(118, 255, 237), rgb(147, 154, 255));
     color: black;
+    display:flex;
 }
+
+.texto-escola{font-size: 18px;}
