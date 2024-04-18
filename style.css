@@ -20,7 +20,7 @@ header{
     width: 25%;
 }
 .escola{
-    background-image: - linear-gradient(rgba(53, 226, 203, 0.555), rgb(147, 154, 255));
+    background-image: linear-gradient(rgba(53, 226, 203, 0.555), rgb(147, 154, 255));
     color: black;
     display:flex;
     justify-content: center;
