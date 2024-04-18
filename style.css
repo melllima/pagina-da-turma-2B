@@ -43,4 +43,12 @@ header{
 
 .estudante{
    background-image: linear-gradient(rgb(147, 154, 255), rgba(53, 226, 203, 0.555));
-   
+}
+
+.estudante-imagem{
+    width: 120px;;
+}
+
+.estudante-icone{
+    width: 20px;
+}
