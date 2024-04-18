@@ -2,7 +2,7 @@
 padding: 0;}
 
 header{
-    background-color: rgb(123, 224, 231);
+    background-color: rgba(53, 226, 203, 0.555);
     color: hsl(0, 0%, 0%);
     display: flex;
     justify-content: space-around;
@@ -42,5 +42,5 @@ header{
 .imagem-escola{margin: 40px;}
 
 .estudante{
-   background-image: linear-gradient(rgba(53, 226, 203, 0.555), rgb(147, 154, 255));
-}
+   background-image: linear-gradient(rgb(147, 154, 255), rgba(53, 226, 203, 0.555));
+   
